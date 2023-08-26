@@ -1,0 +1,12 @@
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\bin\Debug\sangmaojung vb.exe.config
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\bin\Debug\sangmaojung vb.exe
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\bin\Debug\sangmaojung vb.pdb
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\bin\Debug\sangmaojung vb.xml
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.vbprojAssemblyReference.cache
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung_vb.Form1.resources
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung_vb.Resources.resources
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.vbproj.GenerateResource.cache
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.vbproj.CoreCompileInputs.cache
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.exe
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.xml
+C:\Users\T480s\source\repos\vb tic tac toe\sangmaojung vb\obj\Debug\sangmaojung vb.pdb
